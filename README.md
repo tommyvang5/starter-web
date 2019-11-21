@@ -11,3 +11,5 @@ This is and example.
 Sample website with plenty of files for demos
 
 ## Deployment
+
+## Copy Right
