@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tommy Vang tommyvang5@hotmail.com
 
 # THANKS
 
