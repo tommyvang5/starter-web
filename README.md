@@ -21,3 +21,5 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue pull requests.
 
 ## Copy Right
+
+All rights reserved.
