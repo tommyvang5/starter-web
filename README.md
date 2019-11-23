@@ -6,6 +6,8 @@ Adding a line for rebasing example.
 
 More changes from myfeature branch.
 
+An emergency fix.
+
 ## Introduction
 
 This is and example.
