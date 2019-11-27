@@ -1,3 +1,5 @@
 # robotstxt.org/
 
+Robots are awesome!
+
 User-agent: *
