@@ -2,4 +2,6 @@
 
 Robots are awesome!
 
+You too, are also awesome!
+
 User-agent: *
